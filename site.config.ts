@@ -15,6 +15,8 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description: '作品集',
+  socialImageTitle: 'Hello World! ',
+  socialImageSubtitle: 'Hello World!  ',
 
   // social usernames (optional)
   twitter: '',
